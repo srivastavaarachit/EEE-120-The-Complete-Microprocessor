@@ -6,7 +6,6 @@
 **Instructor:** Steven Millman  
 **Semester:** Spring 2025  
 
-**[>>> CLICK HERE TO VIEW THE FULL LAB REPORT (PDF) <<<](./DOCUMENTATION/thecompletemicroprocessor.pdf)**
 
 ---
 
