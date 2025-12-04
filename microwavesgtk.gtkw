@@ -1,0 +1,64 @@
+[*]
+[*] GTKWave Analyzer v3.3.108 (w)1999-2020 BSI
+[*] Mon Apr 07 10:17:59 2025
+[*]
+[dumpfile] "C:\Users\rachi\OneDrive\Desktop\Lab 04\micro_waves.vcd"
+[dumpfile_mtime] "Mon Apr 07 09:55:26 2025"
+[dumpfile_size] 30040
+[savefile] "C:\Users\rachi\OneDrive\Desktop\Lab 04\microwavesgtk.gtkw"
+[timestart] 0
+[size] 1440 853
+[pos] -223 -189
+*-4.446710 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] micro_top.
+[treeopen] micro_top.microprocessor.
+[treeopen] micro_top.microprocessor.brainless_i2.
+[sst_width] 254
+[signals_width] 142
+[sst_expanded] 1
+[sst_vpaned_height] 244
+@28
+micro_top.microprocessor.clk
+micro_top.microprocessor.reset
+@200
+-
+-Controller
+@28
+micro_top.microprocessor.controller_i1.load_ir
+@22
+micro_top.microprocessor.controller_i1.instr_reg[3:0]
+@28
+micro_top.microprocessor.controller_i1.step_reg[1:0]
+@22
+micro_top.microprocessor.controller_i1.rom_out[13:0]
+@200
+-
+-Address Gen
+@22
+micro_top.microprocessor.addr_gen_i0.addr_bus[3:0]
+@28
+micro_top.microprocessor.addr_gen_i0.use_pc
+@22
+micro_top.microprocessor.addr_gen_i0.pc[3:0]
+@28
+micro_top.microprocessor.addr_gen_i0.load_mar
+@22
+micro_top.microprocessor.addr_gen_i0.mar[3:0]
+@200
+-
+-Brainless
+@22
+micro_top.microprocessor.brainless_i2.accum[3:0]
+micro_top.microprocessor.brainless_i2.alu_out[3:0]
+micro_top.microprocessor.brainless_i2.data_bus[3:0]
+@28
+micro_top.microprocessor.brainless_i2.arith
+micro_top.microprocessor.brainless_i2.invert
+micro_top.microprocessor.brainless_i2.pass
+micro_top.microprocessor.brainless_i2.acc_to_db
+micro_top.microprocessor.brainless_i2.load_acc
+micro_top.microprocessor.brainless_i2.read
+@29
+micro_top.microprocessor.brainless_i2.write
+[pattern_trace] 1
+[pattern_trace] 0

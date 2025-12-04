@@ -1,0 +1,17 @@
+v2.0 raw
+0    # Load ACC
+7    #   value to load
+4    # ADD ACC
+0    #   value to add
+0    # STOP
+F
+3
+3
+5
+1
+6
+E
+2
+0
+0
+0
